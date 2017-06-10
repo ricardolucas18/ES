@@ -1,0 +1,45 @@
+Requisitos Funcionais
+
+Cliente
+- Criar conta na aplicação
+- Efetuar login na aplicação
+- Introdução de dados pessoais (morada, nº de telefone, cartão de crédito, etc)
+- Permitir escolher o produto que quer
+- Fazer uma encomenda
+- Efetuar o pagamento
+- Receber informação sobre o tempo até á chegada da encomenda
+- Avaliar a prestação de serviços da empresa
+- Receber a encomenda
+- Receber a fatura
+
+Funcionário da loja
+- Atender o cliente
+- Processar o pedido do cliente
+- Repor o stock da loja
+- 
+
+Gerente
+- Gerir o inventário
+- Gerir o lucro da empresa
+- 
+
+Distribuidora
+- Fazer o levantamento de encomendas
+- Levar encomendas ao destino
+- Receber a assinatura do cliente na entrega
+- 
+
+Funcionário loja online
+- 
+- 
+- 
+
+
+Requisitos não funcionais
+
+- 
+- 
+- 
+- 
+
+
